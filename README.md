@@ -1,2 +1,2 @@
-# frum-jewish-names
- Orthodox Jewish family, male, and female names.
+# Frum Jewish Names
+Orthodox Jewish family, male, and female names.
